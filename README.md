@@ -16,7 +16,9 @@ In this project, we aim to use soil measures data to predict the type of crop.
 
 ### Data source 
 
-Soil Measures Data: The primary dataset used for building the model. Data source: DataCamp.
+Soil Measures Data: The primary dataset used for building the model. 
+
+Data source: DataCamp.
 
 ### Tools
 
